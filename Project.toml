@@ -1,0 +1,7 @@
+name = "SOMEIP"
+uuid = "ec645ea1-43b6-4c9a-a638-2c7813d6b067"
+authors = ["ShoofLLC"]
+version = "0.1.1"
+
+[deps]
+BitIntegers = "c3b6d118-76ef-56ca-8cc7-ebb389d030a1"
